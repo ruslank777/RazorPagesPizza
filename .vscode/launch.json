@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/RazorPagesPizza/bin/Debug/net6.0/RazorPagesPizza.dll",
+            "program": "${workspaceFolder}/RazorPagesPizza/bin/Debug/net7.0/RazorPagesPizza.dll",
             "args": [],
             "cwd": "${workspaceFolder}/RazorPagesPizza",
             "stopAtEntry": false,
